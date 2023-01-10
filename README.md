@@ -29,7 +29,7 @@ Added support for Semantic Augmentation of OpenAPI Specification within Swagger 
 **Tech: OpenAPI Specification, React, RDF**
 
 ### MyRPC (https://github.com/ioanabirsan/myRPC)
-Client-server application that simulated the RPC protocol. The server exposes a list of predefined procedures using XML documents, while the client is able to retrieve the list, parse it, send requests to the server, and display the results of the invocations. The communication between the client and the server was done using the Socket API. 
+Client-server application that simulates the RPC protocol. The server exposes a list of predefined procedures using XML documents, while the client is able to retrieve the list, parse it, send requests to the server, and display the results of the invocations. The communication between the client and the server was done using the Socket API. 
 
 **Tech: C++, pugixml**
 
