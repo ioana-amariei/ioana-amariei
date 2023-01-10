@@ -1,5 +1,10 @@
-### Hi there 👋! 
-Here are some projects I've bee working on (sharing is caring) 📋
+## Hi there 👋! 
+My name is Ioana and I am a **Software Development Engineer**. 
+
+You can get in contact with me using the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeUCgy_1ZyXTXm2OsKlgvh9ZvxFgzxNSbv3oci1CQmf1S18WA/viewform). 
+
+## Projects 📋
+Here are some projects I've been working on (sharing is caring).
 
 In the meantime, you can play a nice puzzle game developed by me 🎮: https://ioanabirsan.github.io/jigr/
 
