@@ -6,14 +6,18 @@ My name is **Ioana** and I am a **Software Engineer**.
 Drop me a note or get in contact with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeUCgy_1ZyXTXm2OsKlgvh9ZvxFgzxNSbv3oci1CQmf1S18WA/viewform). 
 
 ## Technologies 🚀
-Java, Spring Boot, Node.js, GraphQL, OpenFeign, REST (HTTP APIs), OpenAPI, Swagger
 
-Kafka, JMS, PostgreSQL, MySQL
+**Java, Python, JavaScript, HTML, CSS**
 
-Git, Maven, Ant, CI/CD, Jenkins, SonarQube, Docker, AWS
+**Spring, Spring Boot, Node.js, ZK Framework**
 
-JUnit, Mockito, TestNG, EasyMock, WireMock
+**REST (HTTP APIs), OpenAPI, Swagger, GraphQL, OpenFeign**
 
+**Kafka, JMS, PostgreSQL, MySQL**
+
+**Git, Maven, Ant, CI/CD, Jenkins, SonarQube, Docker, AWS**
+
+**JUnit, Mockito, TestNG, EasyMock, WireMock**
 
 
 ## Projects 📋
