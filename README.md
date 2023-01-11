@@ -3,7 +3,7 @@ My name is **Ioana** and I am a **Software Engineer**.
 
 ## Contact me ✍
 
-Drop me a note or get in contact with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeUCgy_1ZyXTXm2OsKlgvh9ZvxFgzxNSbv3oci1CQmf1S18WA/viewform). 
+Drop me a note or get in touch with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeUCgy_1ZyXTXm2OsKlgvh9ZvxFgzxNSbv3oci1CQmf1S18WA/viewform). 
 
 ## Technologies 🚀
 
