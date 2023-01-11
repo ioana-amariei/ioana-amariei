@@ -30,6 +30,11 @@ Developed a client side Web application that allows solving puzzles defined by u
 
 **Tech: JavaScript, HTML, CSS**
 
+### HTTP Deduplication Proxy (https://github.com/ioanabirsan/http-deduplication-proxy)
+Designed and developed a Java application that acts as an HTTP proxy for incoming requests. The application exposes an API endpoint that can receive an ID and another URL endpoint and then calls the endpoint provided as argument with the number of unique IDs received so far. The number of unique IDs received is also periodically written to multiple sinks (e.g., log file, Redis) using the Spring Scheduler mechanism. Tested the load of the application using JMeter.
+
+**Tech: Java, Spring, Spring Boot, Lombok, Redis, JMeter, Docker**
+
 ### TReX (https://github.com/ioanabirsan/Trex-Topic-based-Resource-eXplorer-)
 The Web application is a tool for searching, aggregating, and viewing information regarding various media resources: articles, books, videos, and presentations. The user is able to retrieve information of interest using various filters. The application also exposes the information through an HTTP API for programmatic access. 
 
