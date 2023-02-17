@@ -7,17 +7,12 @@ Drop me a note or get in touch with me: [Google Form](https://docs.google.com/fo
 
 ## Technologies 🚀
 
-**Java, Python, JavaScript, HTML, CSS**
-
-**Spring, Spring Boot, Node.js, ZK Framework**
-
-**REST (HTTP APIs), OpenAPI, Swagger, GraphQL, OpenFeign**
-
-**Kafka, JMS, PostgreSQL, MySQL**
-
-**Git, Maven, Ant, CI/CD, Jenkins, SonarQube, Docker, AWS**
-
-**JUnit, Mockito, TestNG, EasyMock, WireMock**
+- **REST (HTTP APIs), OpenAPI, Swagger, GraphQL, OpenFeign**
+- **Java, Python, Spring, Spring Boot**
+- **React, Node.js, ZK Framework, TypeScript, JavaScript, HTML, CSS, LESS***
+- **Kafka, JMS, PostgreSQL, MySQL**
+- **Git, Maven, Ant, CI/CD, Jenkins, SonarQube, Docker, AWS**
+- **JUnit, Mockito, TestNG, EasyMock, WireMock**
 
 
 ## Projects 📋
