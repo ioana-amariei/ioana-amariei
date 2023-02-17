@@ -65,6 +65,17 @@ Designed and developed a plugin for Intellij IDEA that provides syntax highlight
 
 **Tech: Java, BNF Grammars, JFlex**
 
+### Quiz Game (https://github.com/ioanabirsan/wpf-questionnaire)
+- Quiz Game desktop application developed using C# and XML.
+- The user has the ability select a desired complexity level for the quiz.
+- Depending on the selected complexity level, the application provides relevant questions with possible response options.
+- The user has the ability to select the correct answer for each question.
+- At the end, the application summarizes the administered test results and the user has the possibility to take another test.
+- The questions and possible answers are stored in XML format.
+
+
+**Tech: .NET Framework, C#, XML**
+
 <!--
 **ioanabirsan/ioanabirsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
