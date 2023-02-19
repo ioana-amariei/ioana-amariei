@@ -12,7 +12,7 @@ Drop me a note or get in touch with me: [Google Form](https://docs.google.com/fo
 - **Kafka, JMS, PostgreSQL, MySQL**
 - **Git, Maven, Ant, CI/CD, Jenkins, SonarQube, Docker, AWS**
 - **JUnit, Mockito, TestNG, EasyMock, WireMock**
-- **React, Node.js, ZK Framework, TypeScript, JavaScript, HTML, CSS, LESS***
+- **React, Node.js, ZK Framework, TypeScript, JavaScript, HTML, CSS, LESS**
 
 
 ## Projects 📋
