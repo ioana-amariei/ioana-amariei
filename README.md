@@ -21,7 +21,7 @@ Here are some projects I've been working on (sharing is caring).
 In the meantime, you can play a nice puzzle game developed by me 🎮: https://ioana-amariei.github.io/jigr/
 
 ### JIGR (https://github.com/ioanabirsan/jigr)
-Developed a client side Web application that allows solving puzzles defined by users. Each player is able to select – locally or remotely via a URL – an image that will be cropped at runtime into fragments as complicated as possible. The pieces will be mixed, the shifts / swings can be performed via drag & drop operations. The application also provides support for snap placement in the right area. The current status of each puzzle can be saved locally with the possibility of subsequent restoration. Here you can play the game live: https://ioanabirsan.github.io/jigr/
+Developed a client side Web application that allows solving puzzles defined by users. Each player is able to select – locally or remotely via a URL – an image that will be cropped at runtime into fragments as complicated as possible. The pieces will be mixed, the shifts / swings can be performed via drag & drop operations. The application also provides support for snap placement in the right area. The current status of each puzzle can be saved locally with the possibility of subsequent restoration. Here you can play the game live: [https://ioanabirsan.github.io/jigr/](https://ioana-amariei.github.io/jigr/)
 
 **Tech: JavaScript, HTML, CSS**
 
